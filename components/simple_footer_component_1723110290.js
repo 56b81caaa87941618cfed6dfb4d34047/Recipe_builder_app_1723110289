@@ -9,7 +9,7 @@ Vue.component("simple_footer_component_1723110290", {
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-6 text-3xl font-bold text-white hover:text-pink-200 transition duration-300">
                             <img id="footer-logo" src="./images/logo.svg" class="h-8 mr-4 sm:h-10" alt="Landwind Logo" />
-                            FoodBuilder - Your Digital Kitchen Assistant
+                            FoodBuilder - Your Digital Kitchen
                         </a>
                     </div>
                 </div>
